@@ -21,6 +21,8 @@ TradingAgent 生成的研究报告资料库，按股票 ticker 和研究日期�
 
 报告来自 TradingAgents 的 `results/<TICKER>/<YYYY-MM-DD>/reports/`，原样保留文件名和正文，仅归档人读 Markdown 报告。运行日志和缓存留在源目录。
 
+[TERMINAL_LIST.md](TERMINAL_LIST.md) 为跟踪标的控制清单，按板块分组，并记录标的增删的变更历史。
+
 阅读时可先看 `final_trade_decision.md`（最终结论），再看 `trader_investment_plan.md`（交易方案）、`investment_plan.md`（研究结论），按需阅读其余分析。
 
 日期使用研究日期；同日内容不同的版本使用 `<YYYY-MM-DD>_HHMMSS` 目录保留，时间采用归档时的本地时间。保留原始研究内容；如需更正，另加注明日期的勘误。
