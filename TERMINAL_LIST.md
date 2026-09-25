@@ -18,47 +18,60 @@
 
 ## 当前清单 / Active list
 
-版本：v2（2026-09-25）｜标的数：9｜板块数：4
+版本：v3（2026-09-25）｜标的数：9｜板块数：4
 
 ### 信息技术 · Information Technology（6）
 
 | Ticker | 公司 | 细分板块 | 最新报告 | 评级 | 参考收盘 | 趋势结构 | 下方关键位（收盘） | 上方确认位 | 下一催化剂 |
 |---|---|---|---|---|---|---|---|---|---|
-| [NVDA](NVDA/2026-09-07/reports/final_trade_decision.md) | NVIDIA | Semiconductors（半导体 · AI 算力 GPU） | 2026-09-07 | Hold | 230.36 | 多头：价格 > 50SMA > 200SMA | 210.57（50SMA）／196.53（200SMA） | 放量站稳 236.54 | 9 月 FOMC；10 月底财报 |
-| [TSM](TSM/2026-09-07/reports/final_trade_decision.md) | TSMC | Semiconductors（半导体 · 晶圆代工） | 2026-09-07 | Hold | 428.91 | 长期多头；50SMA 仍缓降 | 420 → 406–410 → 371.8（200SMA） | 放量站稳 433 且回踩不破 | 利率 / CPI / 油价（宏观估值逆风） |
-| [MU](MU/2026-09-07/reports/final_trade_decision.md) | Micron | Semiconductors（半导体 · 存储 DRAM/HBM） | 2026-09-07 | Hold | 1016.59 | 多头，高位乖离 | 938（50SMA）+ MACD 死叉 | 放量站稳 1040 | 9 月 FOMC；9 月底 FY26Q4 财报 |
-| [QCOM](QCOM/2026-09-07/reports/final_trade_decision.md) | Qualcomm | Semiconductors（半导体 · 移动 SoC / 专利授权） | 2026-09-07 | Hold | 168.74 | 中性：贴 50/200SMA，底部修复中 | 165.9–166.1 先减／163 离场 | 放量站稳 170.6 | 11 月初 FQ4'26 财报 |
-| [MSFT](MSFT/2026-09-07/reports/final_trade_decision.md) | Microsoft | Systems Software（软件 · 云 / AI 平台） | 2026-09-07 | Hold | 499.70 | 多头；MACD 柱为负，短线修正 | 495 观察／443（50SMA）+ 基本面恶化 | 放量站稳 517.8 | 9/11 CPI；9 月 FOMC；10 月 FY27Q1 财报 |
-| [AAPL](AAPL/2026-09-07/reports/final_trade_decision.md) | Apple | Technology Hardware（消费电子 · 硬件） | 2026-09-07 | Hold | 319.97 | 多头：贴 10EMA，50SMA 支撑 | 313 减仓／300–303 最后防线 | 放量站稳 331 | 9/9 新品发布会 |
+| [NVDA](NVDA/2026-09-25/reports/final_trade_decision.md) | NVIDIA | Semiconductors（半导体 · AI 算力 GPU） | 2026-09-25 | Overweight | 225.07 | 多头：价格 > 10EMA > 50SMA > 200SMA；缩量整理，MACD 未创新高 | 215.79（50SMA）减仓／210.51 硬止损 | 放量站稳 230.10 且 MACD 同步抬升 | 下季财报（OCF／核心净利；日期未注明） |
+| [TSM](TSM/2026-09-25/reports/final_trade_decision.md) | TSMC | Semiconductors（半导体 · 晶圆代工） | 2026-09-25 | Overweight | 450.61 | 多头：价格 > 10EMA > 50SMA > 200SMA；MACD 柱扩张，450–455 受阻 | 433 连续两日不收复减加仓／429 减底仓／419（50SMA）最终止损 | 放量突破 455 并回踩 452–455 站稳 | 10/8 月度销售数据；10 年期美债收益率 |
+| [MU](MU/2026-09-25/reports/final_trade_decision.md) | Micron | Semiconductors（半导体 · 存储 DRAM/HBM） | 2026-09-25 | Underweight | 1082.28 | 多头：价格 > 10EMA > 50SMA > 200SMA；缩量修复，贴布林上轨 | 1037（10EMA）+ 1008（VWMA）失守降至 25% 以下／942（50SMA）离场 | 放量站稳 1110 再评估加回 | 未注明（仅提毛利率指引，日期未注明） |
+| [QCOM](QCOM/2026-09-25/reports/final_trade_decision.md) | Qualcomm | Semiconductors（半导体 · 移动 SoC / 专利授权） | 2026-09-25 | Hold | 201.97 | 多头：价格 > 10EMA > 50SMA > 200SMA；贴布林上轨，RSI 68 | 191.02（10EMA）先减／181 硬止损 | 放量站稳 205.85 并回踩确认 | FY26Q4 财报（日期未注明） |
+| [MSFT](MSFT/2026-09-25/reports/final_trade_decision.md) | Microsoft | Systems Software（软件 · 云 / AI 平台） | 2026-09-25 | Overweight | 516.17 | 多头：价格 > 10EMA > 50SMA > 200SMA；放量站上布林上轨，MACD 柱仍负 | 500–505 首笔／486–490 次笔／475.40（50SMA）收盘止损 | 放量站稳 525 | 下次财报验证 Copilot 数据（日期未注明） |
+| [AAPL](AAPL/2026-09-25/reports/final_trade_decision.md) | Apple | Technology Hardware（消费电子 · 硬件） | 2026-09-25 | Hold | 341.07 | 多头：价格 > 10EMA > 50SMA > 200SMA；缩量新高，MACD 柱收敛 | 334–335 连续两日放量跌破减半／329.4（布林中轨）／321.7（50SMA） | 放量站稳 346 且回踩不破 | 折叠 iPhone 发布（预测市场 99% 于 10 月底前）；iPhone 预售数据 |
 
 ### 工业 · Industrials（1）
 
 | Ticker | 公司 | 细分板块 | 最新报告 | 评级 | 参考收盘 | 趋势结构 | 下方关键位（收盘） | 上方确认位 | 下一催化剂 |
 |---|---|---|---|---|---|---|---|---|---|
-| [ETN](ETN/2026-09-08/reports/final_trade_decision.md) | Eaton | Electrical Components & Equipment（电气设备 · 数据中心电气化） | 2026-09-08 | Hold | 422.12 | 多头：收复 50SMA，200SMA 上行 | 410 预警／400 止损 | 放量站稳 430 | 9 月 FOMC；10 月底 Q3 财报 |
+| [ETN](ETN/2026-09-25/reports/final_trade_decision.md) | Eaton | Electrical Components & Equipment（电气设备 · 数据中心电气化） | 2026-09-25 | Underweight | 439.98 | 多头：价格 > 10EMA > 50SMA > 200SMA；缩量逼近布林上轨 | 428（10EMA）减第二批／414–418 破位降至 1% 以下／385.22（200SMA）趋势失效 | 放量站稳 478 为趋势再评估线（近压 450.73） | Q3/Q4 财报（日期未注明） |
 
 ### 可选消费 · Consumer Discretionary（1）
 
 | Ticker | 公司 | 细分板块 | 最新报告 | 评级 | 参考收盘 | 趋势结构 | 下方关键位（收盘） | 上方确认位 | 下一催化剂 |
 |---|---|---|---|---|---|---|---|---|---|
-| [TSLA](TSLA/2026-09-07/reports/final_trade_decision.md) | Tesla | Automobile Manufacturers（电动车 · 自动驾驶） | 2026-09-07 | Hold | 354.08 | 空头：价格 < 50SMA < 200SMA | 348 预警／323.65 止损 | 放量突破 373–376 | Q3 财报；NHTSA 审查；欧盟 FSD 投票 |
+| [TSLA](TSLA/2026-09-25/reports/final_trade_decision.md) | Tesla | Automobile Manufacturers（电动车 · 自动驾驶） | 2026-09-25 | Underweight | 372.11 | 修复：50SMA < 价格 < 200SMA，两线仍下行；布林上轨放量被拒 | 365.68（布林中轨）减至 1–2%／347–348（50SMA + 布林下轨）降至观察仓，止损 344–347 下方 | 放量收盘站稳 386.83 连续 2–3 日（暂停减仓）；站稳 395.62（200SMA）才考虑上调 | 下一份财报（日期未注明）；欧盟 FSD 审批（日期未注明） |
 
 ### 通信服务 · Communication Services（1）
 
 | Ticker | 公司 | 细分板块 | 最新报告 | 评级 | 参考收盘 | 趋势结构 | 下方关键位（收盘） | 上方确认位 | 下一催化剂 |
 |---|---|---|---|---|---|---|---|---|---|
-| [TTWO](TTWO/2026-09-07/reports/final_trade_decision.md) | Take-Two Interactive | Interactive Home Entertainment（游戏） | 2026-09-07 | Hold | 214.69 | 空头：低于全部主要均线 | 210–212 支撑／207 止损 | 放量站稳 223–229 连续三日 | 11/19 GTA VI 发售 |
+| [TTWO](TTWO/2026-09-25/reports/final_trade_decision.md) | Take-Two Interactive | Interactive Home Entertainment（游戏） | 2026-09-25 | Overweight | 201.44 | 空头：低于全部主要均线；MACD 深负，贴布林下轨 | 197.86（布林下轨）／187–193 前低区加仓观察／186 放量跌破硬止损 | 收复 VWMA 210.25 且 MACD 转强 | 11/19 GTA VI 发售 |
 
 ---
 
 ## 板块分析 / Sector view
 
-基于 2026-09-07 / 09-08 报告。
+基于 2026-09-25 报告（9 只全部更新）。
 
 **分布**：信息技术 6／9（67%），其中半导体 4 只；工业、可选消费、通信服务各 1。清单明显偏重科技与 AI 链条——若把 ETN（数据中心电气化）也算作 AI 资本开支受益方，与 AI 相关的标的有 7／9。
 
+**评级**：Overweight 4（MSFT、NVDA、TSM、TTWO）｜Hold 2（AAPL、QCOM）｜Underweight 3（ETN、MU、TSLA）。相比 09-07／09-08 全部 Hold，本轮出现明显分化。
+
 | 板块 | 标的 | 板块共性判断 | 主要风险 |
 |---|---|---|---|
+| 半导体 | NVDA、TSM、MU、QCOM | 四只均为完整多头排列，但结论分化：NVDA、TSM 以营收高增长和较低 Forward PE（约 14–21 倍）获 Overweight，均要求分批、突破确认后再加；MU 被视为"周期顶部陷阱"降为 Underweight（价格接近概率加权期望值、CEO 减持、CapEx 远超折旧）；QCOM 因苹果专利授权续签至 2027 消除尾部风险，但贴近阻力、RSI 偏高，维持 Hold。 | 同一 AI 资本开支周期驱动，高度相关；NVDA 核心净利与 OCF 环比走弱，TSM 库存增速快于营收，MU 毛利率指引拐点风险最大；台海尾部风险（TSM）。 |
+| 软件 / 硬件 | MSFT、AAPL | MSFT 放量突破布林上轨、营收与净利加速，升为 Overweight（分三批建仓）；AAPL 盈利重新加速但 TTM PE 约 39、距 345–346 阻力近，维持 Hold、不追加。 | 10 年期美债收益率处 2007 年以来高位压估值；MSFT CapEx 压制 FCF、Copilot 付费数据缺失；AAPL 缩量新高可能是假突破。 |
+| 工业 | ETN | "好公司、坏价格"：电气化与 AI 数据中心逻辑仍在，但 Q2 EPS 同比 -16.4%、毛利率下滑、净债务/EBITDA 约 3 倍、PE TTM 约 45 倍，降为 Underweight。 | Forward EPS 隐含约 64% 增长，下修叠加估值压缩的下行空间较大；与半导体同向波动。 |
+| 可选消费 | TSLA | 估值与盈利脱节（TTM PE 约 338、营业利润同比 -57%、FCF 为负），价格仍在下行的 200SMA 之下且在布林上轨被拒，降为 Underweight。 | 对看空立场的风险：净现金充足，储能／FSD／Optimus 为长期期权；放量站稳 386.83／395.62 且利润率改善需回补。 |
+| 通信服务 | TTWO | 技术面仍为空头结构，但股价贴近 52 周低点、GTA VI 确认 11/19 发售、FCF 转正，报告以左侧分批方式给出 Overweight。 | 评级与技术面相反，未有反转确认；二元事件风险集中在 11/19，延期或放量跌破 186 即下调离场。 |
+
+**共同宏观变量**：利率。多份报告指出 10 年期美债收益率处 2007 年以来高位、降息预期接近归零，对清单内高估值科技、电气设备与高 Beta 标的（MU、TSLA、NVDA）同向承压；清单内没有受益于高利率的对冲标的。
+
+**整体结论**：评级从"全部 Hold"转为分化——AI 算力与平台龙头（NVDA、TSM、MSFT）偏多，估值透支或盈利恶化的 MU、ETN、TSLA 偏空，TTWO 为事件驱动的左侧多头。共同纪律不变："不追高、以收盘确认破位、分批进出"。清单仍缺少防御性板块（必需消费、医疗、公用事业、能源），与 AI 链条相关性过高。
+
+---|---|---|---|
 | 半导体 | NVDA、TSM、MU、QCOM | AI 算力链（NVDA／TSM／MU）基本面最强：营收高增长、毛利率上行；但价格已靠近前高，均为"持有、不追高、回踩或放量突破再加"。QCOM 是反例：移动端营收下滑、苹果基带流失，处于低估值 + 趋势恶化的底部博弈。 | 同一 AI 资本开支周期驱动，彼此高度相关，一次宏观或 AI 需求冲击会同时打击；MU 为周期股，存储价格拐点风险最大。 |
 | 软件 / 硬件 | MSFT、AAPL | 大盘平台股，多头结构完整，但估值已反映预期。MSFT 看 Azure 增速与资本开支回报；AAPL 看发布会后的换机周期。 | 利率上行压估值；资本开支过度（MSFT）；"卖事实"（AAPL）。 |
 | 工业 | ETN | 电网与数据中心电气化受益，营收加速；但高估值、高杠杆、利润率受利息与税率拖累。 | 实质上是 AI 资本开支的延伸，与半导体板块同向波动。 |
@@ -79,3 +92,10 @@
 |---|---|---|---|---|
 | 2026-09-25 | INIT | 全部 11 只 | 5 个板块 | 按仓库已有报告（2026-09-07 / 09-08）建立 Terminal List v1，评级均为 Hold |
 | 2026-09-25 | REMOVE | JPM, BNY | 金融 | 移除全部银行股；清单 v2 为 9 只、4 个板块 |
+| 2026-09-25 | RATING | NVDA | 信息技术 | Hold → Overweight（2026-09-25 报告） |
+| 2026-09-25 | RATING | TSM | 信息技术 | Hold → Overweight（2026-09-25 报告） |
+| 2026-09-25 | RATING | MU | 信息技术 | Hold → Underweight（2026-09-25 报告） |
+| 2026-09-25 | RATING | MSFT | 信息技术 | Hold → Overweight（2026-09-25 报告） |
+| 2026-09-25 | RATING | ETN | 工业 | Hold → Underweight（2026-09-25 报告） |
+| 2026-09-25 | RATING | TSLA | 可选消费 | Hold → Underweight（2026-09-25 报告） |
+| 2026-09-25 | RATING | TTWO | 通信服务 | Hold → Overweight（2026-09-25 报告） |
