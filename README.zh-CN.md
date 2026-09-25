@@ -21,7 +21,7 @@ TradingAgent 生成的研究报告资料库，按股票 ticker 和研究日期�
 
 报告来自 TradingAgents 的 `results/<TICKER>/<YYYY-MM-DD>/reports/`，原样保留文件名和正文，仅归档人读 Markdown 报告。运行日志和缓存留在源目录。
 
-[TERMINAL_LIST.md](TERMINAL_LIST.md) 为跟踪标的控制清单，按板块分组，并记录标的增删的变更历史。
+[TERMINAL_LIST.md](TERMINAL_LIST.md) 为跟踪标的控制清单，按板块分组，并记录标的增删与评级变化。
 
 阅读时可先看 `final_trade_decision.md`（最终结论），再看 `trader_investment_plan.md`（交易方案）、`investment_plan.md`（研究结论），按需阅读其余分析。
 
